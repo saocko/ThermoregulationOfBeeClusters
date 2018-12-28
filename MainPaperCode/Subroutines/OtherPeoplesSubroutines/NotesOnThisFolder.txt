@@ -1,0 +1,1 @@
+These are subroutines related to color bars. It's a headache to get matlab to have multiple subplots with different color bars, and this code makes it easier. 
